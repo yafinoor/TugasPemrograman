@@ -36,5 +36,13 @@ int main (){
 	cout << Ra3c[0] <<" | "<<Ra3c[1]<<" | "<<Ra3c[2]<<" | "<<Ra3c[3]<<" | "<<Ra3c[4]<<endl;
 	cout << endl;
 
+	
+	cout << "BOBOT W :"<<endl;
+	double w[5]={5,3,4,4,2};
+	
+	cout << w[0] <<" | "<<w[1]<<" | "<<w[2]<<" | "<<w[3]<<" | "<<w[4]<<endl;
+	cout << endl;
+	
+
 }
 	
